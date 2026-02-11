@@ -97,15 +97,6 @@ python -m geektrust C:\Users\User\MyMoney\input1.txt
 
 ---
 
----
-
-## 👩‍💻 Author
-
-** Kanika M S **  
-📧 kanikams810@gmail.com  
-
----
-
 ## ⭐ Why This Project?
 This project demonstrates:
 - Financial calculation accuracy using Decimal
@@ -113,3 +104,5 @@ This project demonstrates:
 - Portfolio management logic
 - Python best practices
 - Real-world financial simulation concepts
+
+---
